@@ -1,1 +1,1 @@
-# APP
+This folder contains components. `AuthPanel.jsx` is the main authentication UI component. It uses Firebase Auth (email/password + Google) and Framer Motion for animations.

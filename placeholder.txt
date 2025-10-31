@@ -1,0 +1,1 @@
+Place any public assets (local hero image) here. Replace the hero image URL in `App.jsx` or `tailwind.config.cjs` if you want to use a local asset.
